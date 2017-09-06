@@ -1,0 +1,28 @@
+{
+  "name": "colorly",
+  "version": "1.0.0",
+  "description": "an app to color with your friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdbriner07/Colorly.git"
+  },
+  "author": "jdbriner07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdbriner07/Colorly/issues"
+  },
+  "homepage": "https://github.com/jdbriner07/Colorly#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.15.4",
+    "react": "^15.6.1",
+    "webpack": "^3.5.6"
+  }
+}
