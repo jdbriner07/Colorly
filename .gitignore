@@ -1,0 +1,8 @@
+# compiled Dirs
+dist/
+!dist/index.html
+!dist/styles.css
+
+# dependencies
+node_modules/
+bower_components/
